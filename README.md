@@ -1,2 +1,2 @@
 # InternCareer
-Internship Project repository for non-proprietary projects
+##Project One: Global Terrorism Analysis
