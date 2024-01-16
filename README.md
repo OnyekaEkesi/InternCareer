@@ -14,7 +14,7 @@ Despite significant efforts to combat terrorism, its complexities remain a chall
 
 ### Data:
 
-The analysis leverages the Global Terrorism Database (GTD). This rich resource includes information on over 181,691 terrorist attacks worldwide, covering details like date, location, success rates, target type, attack type etc.
+The analysis leverages the Global Terrorism Database (GTD). This rich resource includes information on 181,691 terrorist attacks worldwide, covering details like date, location, success rates, target type, attack type etc.
 
 ### Getting Started:
 
