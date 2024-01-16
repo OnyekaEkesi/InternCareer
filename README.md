@@ -64,6 +64,4 @@ Please feel free to leave comments, suggestions, or questions. I am committed to
 
 The information presented in this repository is for informational purposes only and does not constitute endorsement of any specific policies or organizations. I strive to maintain data accuracy and factual representation but cannot guarantee the complete absence of errors or biases.
 
-This readme provides a comprehensive overview of the repository and its goals. Feel free to adapt and customize it further based on your specific analysis and data sources.
-
 ##### The Dataset is large and cannot be uploaded on Github, Contact me to access it. Kindly note that terms and conditions apply.
