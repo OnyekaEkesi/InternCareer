@@ -1,5 +1,5 @@
 # InternCareer
-## Project One: Global Terrorism Analysis: Unveiling Patterns and Insights(1970-2017)
+## Project One: Global Terrorism Analysis: Unveiling Patterns and Insights (1970-2017)
 
 This repository delves into the complex world of global terrorism from 1970 to 2017, aiming to provide a deeper understanding of its causes, patterns, and trends. Through comprehensive data analysis using Power BI and DAX, we strive to answer critical questions and shed light on the factors driving this global phenomenon.
 
