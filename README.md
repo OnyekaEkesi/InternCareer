@@ -56,7 +56,7 @@ This analysis offers valuable insights for researchers, policymakers, and the pu
 * Dig deeper into specific aspects of the data using the provided Power BI reports.
 * Extend the analysis to include additional datasets or variables for deeper insights.
 * Share your findings and contribute to the ongoing conversation about global terrorism.
-* I believe that by harnessing the power of data analysis, we can gain valuable knowledge about this complex issue and work towards a safer world.
+** I believe that by harnessing the power of data analysis, we can gain valuable knowledge about this complex issue and work towards a safer world.
 
 Please feel free to leave comments, suggestions, or questions. I am committed to developing this resource and fostering a collaborative environment for understanding and combating global terrorism. 
 
@@ -66,4 +66,4 @@ The information presented in this repository is for informational purposes only 
 
 This readme provides a comprehensive overview of the repository and its goals. Feel free to adapt and customize it further based on your specific analysis and data sources.
 
-The Dataset is large and cannot be uploaded on Github, Contact me to access it. Kindly note that terms and conditions apply.
+##### The Dataset is large and cannot be uploaded on Github, Contact me to access it. Kindly note that terms and conditions apply.
