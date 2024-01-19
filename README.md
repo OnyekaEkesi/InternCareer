@@ -83,7 +83,7 @@ Please feel free to leave comments, suggestions, or questions. I am committed to
 
 ## Contributors
 
-*This project was solely carried out by Onyekachukwu Ekesi
+*This project was solely carried out by Onyekachukwu Ekesi <br>
 Disclaimer:
 
 The information presented in this repository is for informational purposes only and does not constitute endorsement of any specific policies or organizations. I strive to maintain data accuracy and factual representation but cannot guarantee the complete absence of errors or biases.
