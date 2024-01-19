@@ -8,7 +8,7 @@
 
 ### Table of Content
 
-1. [Project One Name: Global Terrorism Analysis: Unveiling Patterns and Insights (1970-2017)](#project-one-name-:-global-terrorism-analysis-:-unveiling-patterns-and-insights-(-1970-2017))
+1. [Project One Name](#project-one-name)
 2. [Introduction](#introduction)
 3. [Problem Overview](#problem-overview)
 4. [Tools](#tools)
